@@ -1,0 +1,1 @@
+"""AutoParts application package."""
