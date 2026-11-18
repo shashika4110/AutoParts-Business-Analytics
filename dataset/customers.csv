@@ -1,0 +1,301 @@
+﻿customer_id,customer_name,customer_type,city,district,province,contact_number_synthetic,registration_date
+C0001,Chathura Pathirana,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0001,2025-01-10
+C0002,Chamara Rajapaksha,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0002,2026-04-07
+C0003,Roshan Jayasinghe,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0003,2024-02-15
+C0004,Nimal Dissanayake,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0004,2025-12-22
+C0005,Manoj Wickramasinghe,Retail,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0005,2024-04-24
+C0006,Gayan Silva,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0006,2026-08-08
+C0007,Thilini Bandara,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0007,2025-04-13
+C0008,A One Auto Care Motor Traders,Wholesale,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0008,2025-07-15
+C0009,Dilshan Amarasinghe,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0009,2024-12-14
+C0010,Tharindu Silva,Retail,Matara,Matara,Southern,SYNTH-CUST-0010,2024-06-16
+C0011,Pradeep De Silva,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0011,2024-10-18
+C0012,Sajith De Silva,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0012,2025-05-10
+C0013,Gayan Fernando,Retail,Kandy,Kandy,Central,SYNTH-CUST-0013,2026-04-19
+C0014,Metro Garage Garage,Wholesale,Matara,Matara,Southern,SYNTH-CUST-0014,2024-07-02
+C0015,Dinushi Rajapaksha,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0015,2024-07-08
+C0016,Highway Motors Workshop,Wholesale,Nugegoda,Colombo,Western,SYNTH-CUST-0016,2025-09-07
+C0017,Ashan Dissanayake,Retail,Matara,Matara,Southern,SYNTH-CUST-0017,2024-06-14
+C0018,Isuru Jayasinghe,Retail,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0018,2025-06-19
+C0019,Tharindu Gunawardena,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0019,2025-10-24
+C0020,City Auto Motor Traders,Wholesale,Nugegoda,Colombo,Western,SYNTH-CUST-0020,2025-02-09
+C0021,Pradeep Dissanayake,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0021,2024-02-24
+C0022,Kavya Pathirana,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0022,2024-11-14
+C0023,A One Auto Care Auto Care,Wholesale,Ja-Ela,Gampaha,Western,SYNTH-CUST-0023,2025-05-03
+C0024,Sanduni Bandara,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0024,2026-02-24
+C0025,Dinesh Weerasinghe,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0025,2026-04-24
+C0026,Sachini Gunawardena,Retail,Galle,Galle,Southern,SYNTH-CUST-0026,2025-09-05
+C0027,Pradeep Abeysekara,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0027,2026-04-16
+C0028,Sajith Karunaratne,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0028,2026-01-15
+C0029,Chamara Senanayake,Retail,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0029,2026-01-22
+C0030,Sajith De Silva,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0030,2026-02-05
+C0031,Ishara Amarasinghe,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0031,2026-03-02
+C0032,Harsha Perera,Retail,Hambantota,Hambantota,Southern,SYNTH-CUST-0032,2024-04-04
+C0033,Greenway Auto Garage,Wholesale,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0033,2024-04-12
+C0034,Sachini Rajapaksha,Retail,Monaragala,Monaragala,Uva,SYNTH-CUST-0034,2025-11-02
+C0035,Sathsara Motors Motor Traders,Wholesale,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0035,2026-09-15
+C0036,Kasun Ekanayake,Retail,Colombo,Colombo,Western,SYNTH-CUST-0036,2024-09-01
+C0037,A One Auto Care Service Centre,Wholesale,Jaffna,Jaffna,Northern,SYNTH-CUST-0037,2026-03-17
+C0038,Central Motor Traders Garage,Wholesale,Negombo,Gampaha,Western,SYNTH-CUST-0038,2024-01-12
+C0039,Dinesh De Silva,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0039,2026-04-28
+C0040,Sajith Silva,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0040,2026-10-10
+C0041,Supun Bandara,Retail,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0041,2025-11-28
+C0042,New Star Motors Auto Care,Wholesale,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0042,2025-03-01
+C0043,Saman Amarasinghe,Retail,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0043,2026-03-12
+C0044,Kavya Gunawardena,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0044,2024-11-06
+C0045,Gayan De Silva,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0045,2024-02-04
+C0046,Lanka Motor Works Garage,Wholesale,Gampaha,Gampaha,Western,SYNTH-CUST-0046,2025-10-19
+C0047,Chamara Karunaratne,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0047,2026-06-06
+C0048,Dinushi Jayasinghe,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0048,2026-05-29
+C0049,Kavya Herath,Retail,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0049,2025-06-08
+C0050,Amila Rathnayake,Retail,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0050,2025-08-09
+C0051,Kavya Abeysekara,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0051,2026-06-04
+C0052,Dinesh De Silva,Retail,Dehiwala,Colombo,Western,SYNTH-CUST-0052,2025-04-13
+C0053,Nimal Jayasinghe,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0053,2024-04-21
+C0054,Nadeesha Perera,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0054,2025-07-08
+C0055,Madusha Silva,Retail,Kandy,Kandy,Central,SYNTH-CUST-0055,2026-08-05
+C0056,Ishara Weerasinghe,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0056,2025-08-27
+C0057,Kasun Pathirana,Retail,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0057,2025-10-06
+C0058,New Star Motors Workshop,Wholesale,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0058,2024-11-09
+C0059,Sanduni Dissanayake,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0059,2024-02-15
+C0060,Ishara Senanayake,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0060,2024-03-28
+C0061,Greenway Auto Motor Traders,Wholesale,Puttalam,Puttalam,North Western,SYNTH-CUST-0061,2025-05-23
+C0062,Lahiru Perera,Retail,Matara,Matara,Southern,SYNTH-CUST-0062,2024-03-16
+C0063,Kavya Senanayake,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0063,2025-09-05
+C0064,Harsha Dissanayake,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0064,2024-10-08
+C0065,Greenway Auto Workshop,Wholesale,Nugegoda,Colombo,Western,SYNTH-CUST-0065,2025-08-04
+C0066,A One Auto Care Service Centre,Wholesale,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0066,2024-08-19
+C0067,Lanka Motor Works Auto Care,Wholesale,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0067,2025-09-29
+C0068,Supreme Auto Workshop,Wholesale,Ja-Ela,Gampaha,Western,SYNTH-CUST-0068,2025-11-08
+C0069,Pradeep Rajapaksha,Retail,Kandy,Kandy,Central,SYNTH-CUST-0069,2025-10-16
+C0070,Ishara Fernando,Retail,Galle,Galle,Southern,SYNTH-CUST-0070,2026-05-04
+C0071,Kavya Ekanayake,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0071,2025-09-22
+C0072,Sathsara Motors Workshop,Wholesale,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0072,2025-12-31
+C0073,Nimal Gunawardena,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0073,2026-01-21
+C0074,United Auto Care Auto Care,Wholesale,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0074,2025-11-20
+C0075,Prasanna Dissanayake,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0075,2026-07-20
+C0076,United Auto Care Service Centre,Wholesale,Negombo,Gampaha,Western,SYNTH-CUST-0076,2024-01-06
+C0077,Madusha Wijesinghe,Retail,Monaragala,Monaragala,Uva,SYNTH-CUST-0077,2026-09-19
+C0078,A One Auto Care Motor Traders,Wholesale,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0078,2024-07-25
+C0079,Prime Auto Parts Auto Care,Wholesale,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0079,2026-04-15
+C0080,Thilini Ekanayake,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0080,2024-07-29
+C0081,Dinushi Wijesinghe,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0081,2026-02-08
+C0082,Lahiru Herath,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0082,2025-01-02
+C0083,Isuru Rajapaksha,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0083,2025-01-23
+C0084,Tharindu De Silva,Retail,Galle,Galle,Southern,SYNTH-CUST-0084,2025-08-16
+C0085,Kavya Abeysekara,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0085,2025-10-14
+C0086,Manoj Rajapaksha,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0086,2024-06-29
+C0087,Isuru Fernando,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0087,2026-10-21
+C0088,Nuwan Amarasinghe,Retail,Matale,Matale,Central,SYNTH-CUST-0088,2024-03-20
+C0089,Harsha Jayasinghe,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0089,2025-07-04
+C0090,Lahiru Wijesinghe,Retail,Galle,Galle,Southern,SYNTH-CUST-0090,2025-07-15
+C0091,Sajith Wijesinghe,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0091,2026-09-14
+C0092,Sanduni Fernando,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0092,2025-08-24
+C0093,Sajith Fernando,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0093,2026-04-05
+C0094,Nimal Fernando,Retail,Colombo,Colombo,Western,SYNTH-CUST-0094,2024-07-30
+C0095,Isuru Wickramasinghe,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0095,2024-02-07
+C0096,Sajith Rajapaksha,Retail,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0096,2026-07-23
+C0097,Anushka Amarasinghe,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0097,2025-05-18
+C0098,Raja Motors Auto Care,Wholesale,Badulla,Badulla,Uva,SYNTH-CUST-0098,2026-03-18
+C0099,Tharindu Senanayake,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0099,2025-09-18
+C0100,Chathura Amarasinghe,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0100,2025-11-02
+C0101,Lahiru Gunawardena,Retail,Colombo,Colombo,Western,SYNTH-CUST-0101,2026-06-12
+C0102,Highway Motors Workshop,Wholesale,Colombo,Colombo,Western,SYNTH-CUST-0102,2026-08-16
+C0103,Central Motor Traders Service Centre,Wholesale,Gampaha,Gampaha,Western,SYNTH-CUST-0103,2026-08-26
+C0104,Prasanna Perera,Retail,Matara,Matara,Southern,SYNTH-CUST-0104,2024-06-08
+C0105,Chamara Dissanayake,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0105,2025-04-26
+C0106,Highway Motors Service Centre,Wholesale,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0106,2025-12-18
+C0107,Kavindu Herath,Retail,Matara,Matara,Southern,SYNTH-CUST-0107,2026-01-18
+C0108,Prime Auto Parts Motor Traders,Wholesale,Dehiwala,Colombo,Western,SYNTH-CUST-0108,2025-09-29
+C0109,Supun Wickramasinghe,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0109,2024-06-24
+C0110,Kavindu Jayasinghe,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0110,2026-03-04
+C0111,Manoj Perera,Retail,Colombo,Colombo,Western,SYNTH-CUST-0111,2026-04-19
+C0112,Nadeesha Amarasinghe,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0112,2024-03-23
+C0113,Madusha Amarasinghe,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0113,2024-09-19
+C0114,Kasun Herath,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0114,2025-10-13
+C0115,Nuwan Gunawardena,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0115,2025-11-28
+C0116,Dilshan Weerasinghe,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0116,2026-01-23
+C0117,Lahiru Fernando,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0117,2025-04-14
+C0118,Chamara Amarasinghe,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0118,2026-06-06
+C0119,Dilshan Silva,Retail,Matara,Matara,Southern,SYNTH-CUST-0119,2026-03-10
+C0120,New Star Motors Workshop,Wholesale,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0120,2024-01-25
+C0121,Madusha Jayasinghe,Retail,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0121,2026-07-12
+C0122,Lahiru Rathnayake,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0122,2024-05-09
+C0123,Raja Motors Auto Care,Wholesale,Monaragala,Monaragala,Uva,SYNTH-CUST-0123,2026-01-18
+C0124,Roshan Abeysekara,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0124,2024-11-01
+C0125,Madusha Wijesinghe,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0125,2026-01-18
+C0126,Madusha De Silva,Retail,Dehiwala,Colombo,Western,SYNTH-CUST-0126,2024-08-23
+C0127,Madusha Wijesinghe,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0127,2026-08-28
+C0128,Saman Jayasinghe,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0128,2026-02-12
+C0129,Sajith Amarasinghe,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0129,2025-01-27
+C0130,Supun Gunawardena,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0130,2024-03-26
+C0131,Dilshan Weerasinghe,Retail,Colombo,Colombo,Western,SYNTH-CUST-0131,2026-08-20
+C0132,Anushka Abeysekara,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0132,2026-10-18
+C0133,Kavya Bandara,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0133,2024-10-25
+C0134,Manoj De Silva,Retail,Kandy,Kandy,Central,SYNTH-CUST-0134,2026-08-31
+C0135,Ishara Pathirana,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0135,2025-10-20
+C0136,Madusha Rajapaksha,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0136,2025-09-16
+C0137,Prasanna De Silva,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0137,2025-06-07
+C0138,Kasun Bandara,Retail,Galle,Galle,Southern,SYNTH-CUST-0138,2025-10-29
+C0139,Greenway Auto Garage,Wholesale,Jaffna,Jaffna,Northern,SYNTH-CUST-0139,2024-02-18
+C0140,Ruwan Perera,Retail,Galle,Galle,Southern,SYNTH-CUST-0140,2025-03-28
+C0141,United Auto Care Motor Traders,Wholesale,Matara,Matara,Southern,SYNTH-CUST-0141,2024-05-21
+C0142,A One Auto Care Motor Traders,Wholesale,Monaragala,Monaragala,Uva,SYNTH-CUST-0142,2025-02-26
+C0143,Amila Abeysekara,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0143,2024-10-17
+C0144,Madusha Rathnayake,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0144,2025-03-14
+C0145,Roshan Karunaratne,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0145,2026-01-15
+C0146,Thilini Bandara,Retail,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0146,2024-05-10
+C0147,Pradeep Abeysekara,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0147,2025-06-25
+C0148,Sathsara Motors Motor Traders,Wholesale,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0148,2025-10-26
+C0149,Lahiru Senanayake,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0149,2024-02-08
+C0150,Central Motor Traders Garage,Wholesale,Galle,Galle,Southern,SYNTH-CUST-0150,2026-05-06
+C0151,Sajith Perera,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0151,2025-01-20
+C0152,New Star Motors Workshop,Wholesale,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0152,2026-07-30
+C0153,Dilshan Pathirana,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0153,2024-02-06
+C0154,Anushka Amarasinghe,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0154,2026-03-13
+C0155,Lahiru Herath,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0155,2025-12-09
+C0156,Manoj Gunawardena,Retail,Negombo,Gampaha,Western,SYNTH-CUST-0156,2024-07-18
+C0157,Ashan Wijesinghe,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0157,2025-11-02
+C0158,Madusha Amarasinghe,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0158,2024-02-01
+C0159,Ashan Herath,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0159,2025-08-19
+C0160,Chathura Fernando,Retail,Negombo,Gampaha,Western,SYNTH-CUST-0160,2024-12-11
+C0161,Kavya Karunaratne,Retail,Matale,Matale,Central,SYNTH-CUST-0161,2026-02-07
+C0162,Ashan De Silva,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0162,2024-06-07
+C0163,Tharindu Ekanayake,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0163,2024-03-18
+C0164,New Star Motors Motor Traders,Wholesale,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0164,2024-03-06
+C0165,Chamara Jayasinghe,Retail,Matale,Matale,Central,SYNTH-CUST-0165,2024-12-06
+C0166,Nadeesha Abeysekara,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0166,2024-05-02
+C0167,Kavindu Wickramasinghe,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0167,2025-12-20
+C0168,Isuru Weerasinghe,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0168,2024-12-03
+C0169,Madusha Pathirana,Retail,Galle,Galle,Southern,SYNTH-CUST-0169,2024-05-10
+C0170,Supun Perera,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0170,2024-04-10
+C0171,Kavya Ekanayake,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0171,2024-11-29
+C0172,Chamara Herath,Retail,Matale,Matale,Central,SYNTH-CUST-0172,2026-04-13
+C0173,Kavya Abeysekara,Retail,Colombo,Colombo,Western,SYNTH-CUST-0173,2026-05-29
+C0174,Kavindu De Silva,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0174,2026-06-07
+C0175,Nadeesha Amarasinghe,Retail,Matara,Matara,Southern,SYNTH-CUST-0175,2025-08-03
+C0176,Dilshan Jayasinghe,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0176,2024-07-04
+C0177,Lahiru Pathirana,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0177,2024-06-20
+C0178,Pradeep Rajapaksha,Retail,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0178,2024-11-15
+C0179,Manoj Gunawardena,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0179,2025-01-04
+C0180,Prasanna Bandara,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0180,2026-02-22
+C0181,Central Motor Traders Garage,Wholesale,Galle,Galle,Southern,SYNTH-CUST-0181,2024-04-29
+C0182,Gayan Wickramasinghe,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0182,2026-05-18
+C0183,Dinesh Perera,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0183,2025-01-03
+C0184,Pradeep Dissanayake,Retail,Galle,Galle,Southern,SYNTH-CUST-0184,2024-04-23
+C0185,Pradeep Wijesinghe,Retail,Kandy,Kandy,Central,SYNTH-CUST-0185,2024-10-02
+C0186,Supun Wickramasinghe,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0186,2026-01-19
+C0187,Amila Dissanayake,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0187,2024-01-18
+C0188,Nuwan Dissanayake,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0188,2024-12-22
+C0189,Anushka Dissanayake,Retail,Galle,Galle,Southern,SYNTH-CUST-0189,2024-10-25
+C0190,Sunshine Motors Workshop,Wholesale,Dehiwala,Colombo,Western,SYNTH-CUST-0190,2024-01-09
+C0191,Supun Ekanayake,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0191,2026-04-23
+C0192,Chathura Gunawardena,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0192,2025-03-06
+C0193,Sunshine Motors Garage,Wholesale,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0193,2026-07-02
+C0194,Raja Motors Workshop,Wholesale,Badulla,Badulla,Uva,SYNTH-CUST-0194,2024-10-12
+C0195,Supun Herath,Retail,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0195,2026-01-17
+C0196,Manoj Bandara,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0196,2025-07-27
+C0197,Amila Rathnayake,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0197,2025-11-01
+C0198,Nuwan Perera,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0198,2024-05-12
+C0199,Harsha Karunaratne,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0199,2024-06-01
+C0200,Kasun Fernando,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0200,2026-10-17
+C0201,Kasun Jayasinghe,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0201,2026-02-08
+C0202,Amila Perera,Retail,Ja-Ela,Gampaha,Western,SYNTH-CUST-0202,2025-01-16
+C0203,Dinushi Pathirana,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0203,2026-08-19
+C0204,Kavya Karunaratne,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0204,2024-11-18
+C0205,Nadeesha Karunaratne,Retail,Matale,Matale,Central,SYNTH-CUST-0205,2024-07-02
+C0206,Manoj Rajapaksha,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0206,2026-08-24
+C0207,Kavya Abeysekara,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0207,2026-07-03
+C0208,Kasun Amarasinghe,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0208,2025-09-15
+C0209,United Auto Care Auto Care,Wholesale,Matale,Matale,Central,SYNTH-CUST-0209,2026-08-12
+C0210,Prime Auto Parts Garage,Wholesale,Puttalam,Puttalam,North Western,SYNTH-CUST-0210,2024-08-14
+C0211,Sajith Dissanayake,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0211,2025-08-11
+C0212,Prasanna Dissanayake,Retail,Negombo,Gampaha,Western,SYNTH-CUST-0212,2024-08-21
+C0213,Dilshan Weerasinghe,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0213,2025-03-07
+C0214,Nuwan Karunaratne,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0214,2026-02-27
+C0215,Highway Motors Garage,Wholesale,Galle,Galle,Southern,SYNTH-CUST-0215,2024-10-03
+C0216,Roshan Weerasinghe,Retail,Dehiwala,Colombo,Western,SYNTH-CUST-0216,2024-12-23
+C0217,Prime Auto Parts Service Centre,Wholesale,Trincomalee,Trincomalee,Eastern,SYNTH-CUST-0217,2024-12-22
+C0218,Thilini Karunaratne,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0218,2026-01-30
+C0219,Ashan Ekanayake,Retail,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0219,2024-01-30
+C0220,Thilini Wickramasinghe,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0220,2026-06-06
+C0221,Dilshan Fernando,Retail,Hambantota,Hambantota,Southern,SYNTH-CUST-0221,2024-10-20
+C0222,Sathsara Motors Service Centre,Wholesale,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0222,2025-03-28
+C0223,Chamara Perera,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0223,2025-08-29
+C0224,Sajith Pathirana,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0224,2025-08-11
+C0225,Dinesh Abeysekara,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0225,2025-04-23
+C0226,Chamara Perera,Retail,Jaffna,Jaffna,Northern,SYNTH-CUST-0226,2026-09-08
+C0227,Sajith Ekanayake,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0227,2026-04-25
+C0228,Chamara Amarasinghe,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0228,2024-04-09
+C0229,Nimal Weerasinghe,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0229,2026-03-05
+C0230,Prasanna De Silva,Retail,Negombo,Gampaha,Western,SYNTH-CUST-0230,2025-11-14
+C0231,Prime Auto Parts Workshop,Wholesale,Matara,Matara,Southern,SYNTH-CUST-0231,2024-02-24
+C0232,Lahiru Wijesinghe,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0232,2025-10-30
+C0233,Lanka Motor Works Workshop,Wholesale,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0233,2024-03-27
+C0234,Madusha Ekanayake,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0234,2024-07-09
+C0235,Sajith Herath,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0235,2024-12-05
+C0236,Central Motor Traders Service Centre,Wholesale,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0236,2026-08-08
+C0237,Supun Pathirana,Retail,Colombo,Colombo,Western,SYNTH-CUST-0237,2024-01-26
+C0238,Anushka De Silva,Retail,Hambantota,Hambantota,Southern,SYNTH-CUST-0238,2024-10-17
+C0239,Chamara Abeysekara,Retail,Monaragala,Monaragala,Uva,SYNTH-CUST-0239,2026-10-21
+C0240,Sachini Herath,Retail,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0240,2024-06-25
+C0241,Saman Wickramasinghe,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0241,2024-10-24
+C0242,Prasanna Rajapaksha,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0242,2024-09-04
+C0243,City Auto Workshop,Wholesale,Badulla,Badulla,Uva,SYNTH-CUST-0243,2025-10-29
+C0244,Isuru Abeysekara,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0244,2024-09-07
+C0245,Tharindu Pathirana,Retail,Dehiwala,Colombo,Western,SYNTH-CUST-0245,2025-07-27
+C0246,Dilshan Bandara,Retail,Galle,Galle,Southern,SYNTH-CUST-0246,2024-01-03
+C0247,Sajith Abeysekara,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0247,2024-10-14
+C0248,Gayan Rajapaksha,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0248,2025-06-03
+C0249,Chamara Dissanayake,Retail,Matale,Matale,Central,SYNTH-CUST-0249,2024-01-15
+C0250,Sachini Silva,Retail,Matale,Matale,Central,SYNTH-CUST-0250,2025-09-27
+C0251,Sachini Rathnayake,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0251,2024-05-01
+C0252,New Star Motors Auto Care,Wholesale,Panadura,Kalutara,Western,SYNTH-CUST-0252,2025-09-03
+C0253,Anushka Rathnayake,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0253,2024-02-16
+C0254,Ruwan Gunawardena,Retail,Matara,Matara,Southern,SYNTH-CUST-0254,2026-06-20
+C0255,Metro Garage Auto Care,Wholesale,Moratuwa,Colombo,Western,SYNTH-CUST-0255,2026-06-20
+C0256,Roshan Rajapaksha,Retail,Monaragala,Monaragala,Uva,SYNTH-CUST-0256,2025-07-22
+C0257,Ruwan Wijesinghe,Retail,Kuliyapitiya,Kurunegala,North Western,SYNTH-CUST-0257,2026-10-08
+C0258,Kasun Pathirana,Retail,Matara,Matara,Southern,SYNTH-CUST-0258,2025-02-19
+C0259,Nadeesha Amarasinghe,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0259,2025-09-13
+C0260,Dinushi Herath,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0260,2024-09-01
+C0261,Amila Pathirana,Retail,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0261,2025-09-09
+C0262,Supreme Auto Service Centre,Wholesale,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0262,2024-10-06
+C0263,Ashan Rathnayake,Retail,Kalutara,Kalutara,Western,SYNTH-CUST-0263,2026-10-27
+C0264,Tharindu Gunawardena,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0264,2026-09-07
+C0265,Sanduni Rathnayake,Retail,Matara,Matara,Southern,SYNTH-CUST-0265,2026-01-23
+C0266,Pradeep Rajapaksha,Retail,Galle,Galle,Southern,SYNTH-CUST-0266,2025-05-17
+C0267,Highway Motors Garage,Wholesale,Kandy,Kandy,Central,SYNTH-CUST-0267,2025-02-06
+C0268,Highway Motors Garage,Wholesale,Jaffna,Jaffna,Northern,SYNTH-CUST-0268,2025-09-20
+C0269,Kavindu Perera,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0269,2025-04-23
+C0270,Kasun Dissanayake,Retail,Puttalam,Puttalam,North Western,SYNTH-CUST-0270,2025-02-17
+C0271,Saman Herath,Retail,Matara,Matara,Southern,SYNTH-CUST-0271,2024-06-18
+C0272,Anushka Jayasinghe,Retail,Negombo,Gampaha,Western,SYNTH-CUST-0272,2025-10-05
+C0273,Nuwan Weerasinghe,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0273,2024-08-17
+C0274,Supreme Auto Auto Care,Wholesale,Colombo,Colombo,Western,SYNTH-CUST-0274,2024-09-14
+C0275,Lanka Motor Works Motor Traders,Wholesale,Badulla,Badulla,Uva,SYNTH-CUST-0275,2024-04-07
+C0276,Manoj Perera,Retail,Nuwara Eliya,Nuwara Eliya,Central,SYNTH-CUST-0276,2024-03-07
+C0277,Kavindu De Silva,Retail,Negombo,Gampaha,Western,SYNTH-CUST-0277,2025-01-07
+C0278,Dilshan Rajapaksha,Retail,Ratnapura,Ratnapura,Sabaragamuwa,SYNTH-CUST-0278,2026-06-18
+C0279,Dilshan Dissanayake,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0279,2026-08-02
+C0280,Manoj Amarasinghe,Retail,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0280,2026-10-16
+C0281,Pradeep Weerasinghe,Retail,Galle,Galle,Southern,SYNTH-CUST-0281,2025-10-25
+C0282,Roshan Amarasinghe,Retail,Monaragala,Monaragala,Uva,SYNTH-CUST-0282,2026-01-14
+C0283,Roshan Wijesinghe,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0283,2024-04-09
+C0284,Roshan Herath,Retail,Badulla,Badulla,Uva,SYNTH-CUST-0284,2025-05-31
+C0285,Roshan Rajapaksha,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0285,2024-10-18
+C0286,Thilini Gunawardena,Retail,Anuradhapura,Anuradhapura,North Central,SYNTH-CUST-0286,2026-04-20
+C0287,Kavya Karunaratne,Retail,Polonnaruwa,Polonnaruwa,North Central,SYNTH-CUST-0287,2025-06-15
+C0288,Thilini Rathnayake,Retail,Panadura,Kalutara,Western,SYNTH-CUST-0288,2024-02-02
+C0289,Sachini Bandara,Retail,Nugegoda,Colombo,Western,SYNTH-CUST-0289,2025-06-11
+C0290,Supreme Auto Auto Care,Wholesale,Kurunegala,Kurunegala,North Western,SYNTH-CUST-0290,2025-11-17
+C0291,Madusha Rajapaksha,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0291,2024-07-06
+C0292,Isuru Bandara,Retail,Moratuwa,Colombo,Western,SYNTH-CUST-0292,2025-05-13
+C0293,New Star Motors Auto Care,Wholesale,Matale,Matale,Central,SYNTH-CUST-0293,2026-08-27
+C0294,Manoj Herath,Retail,Kegalle,Kegalle,Sabaragamuwa,SYNTH-CUST-0294,2025-11-13
+C0295,Dinushi Jayasinghe,Retail,Dehiwala,Colombo,Western,SYNTH-CUST-0295,2024-10-25
+C0296,United Auto Care Auto Care,Wholesale,Dehiwala,Colombo,Western,SYNTH-CUST-0296,2025-02-13
+C0297,United Auto Care Workshop,Wholesale,Batticaloa,Batticaloa,Eastern,SYNTH-CUST-0297,2026-06-23
+C0298,United Auto Care Workshop,Wholesale,Vavuniya,Vavuniya,Northern,SYNTH-CUST-0298,2026-01-29
+C0299,City Auto Service Centre,Wholesale,Puttalam,Puttalam,North Western,SYNTH-CUST-0299,2024-04-22
+C0300,Ishara Wijesinghe,Retail,Gampaha,Gampaha,Western,SYNTH-CUST-0300,2025-12-13

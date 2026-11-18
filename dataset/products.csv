@@ -1,0 +1,151 @@
+﻿product_id,product_name,category,brand,compatible_vehicle_make,part_number,unit_cost_lkr,retail_price_lkr,wholesale_price_lkr,reorder_level,is_active
+P0001,Universal Brake Fluid 500ml - Bosch,Filters & Fluids,Bosch,Universal,AP-FIL-0001,1450,1900,1700,5,True
+P0002,Toyota Door Handle - Genuine,Body & Exterior,Genuine,Toyota,AP-BOD-0002,1600,1950,1750,3,True
+P0003,Nissan Front Bumper - Genuine,Body & Exterior,Genuine,Nissan,AP-BOD-0003,40500,56700,50850,3,True
+P0004,Suzuki Brake Master Cylinder - NGK,Brakes,NGK,Suzuki,AP-BRA-0004,12600,16150,15150,15,True
+P0005,Toyota Engine Gasket Set - Genuine,Engine & Lubrication,Genuine,Toyota,AP-ENG-0005,7400,10100,9100,12,True
+P0006,Suzuki Fuel Filter - Mann-Filter,Engine & Lubrication,Mann-Filter,Suzuki,AP-ENG-0006,3000,4850,4400,12,True
+P0007,Universal Brake Fluid 500ml - Castrol,Filters & Fluids,Castrol,Universal,AP-FIL-0007,850,1050,950,12,True
+P0008,Nissan Spark Plug Set - Bosch,Engine & Lubrication,Bosch,Nissan,AP-ENG-0008,6600,8800,8100,15,True
+P0009,Honda Brake Master Cylinder - NGK,Brakes,NGK,Honda,AP-BRA-0009,10800,16050,14800,5,True
+P0010,Universal Engine Oil 1L - Castrol,Filters & Fluids,Castrol,Universal,AP-FIL-0010,2800,3950,3550,10,True
+P0011,Toyota Tail Lamp Assembly - 555,Electrical,555,Toyota,AP-ELE-0011,8100,12500,11300,5,True
+P0012,Mitsubishi Lower Arm - NGK,Suspension & Steering,NGK,Mitsubishi,AP-SUS-0012,17800,26400,23850,25,True
+P0013,Honda Brake Disc - Brembo,Brakes,Brembo,Honda,AP-BRA-0013,19100,29000,26450,20,True
+P0014,Suzuki Window Regulator - NGK,Body & Exterior,NGK,Suzuki,AP-BOD-0014,11100,17950,15950,25,True
+P0015,Toyota Spark Plug Set - Bosch,Engine & Lubrication,Bosch,Toyota,AP-ENG-0015,3700,5450,5050,20,True
+P0016,Universal Engine Oil 1L - TotalEnergies,Filters & Fluids,TotalEnergies,Universal,AP-FIL-0016,4200,6150,5600,12,True
+P0017,Toyota Front Bumper - Bosch,Body & Exterior,Bosch,Toyota,AP-BOD-0017,72900,110850,102650,15,True
+P0018,Honda Front Brake Pad Set - Akebono,Brakes,Akebono,Honda,AP-BRA-0018,8500,11900,11150,12,True
+P0019,Nissan Drive Shaft - Bosch,Transmission & Clutch,Bosch,Nissan,AP-TRA-0019,82000,109850,100900,10,True
+P0020,Mitsubishi Door Handle - Denso,Body & Exterior,Denso,Mitsubishi,AP-BOD-0020,5300,7500,6650,15,True
+P0021,Nissan Headlamp Assembly - Denso,Electrical,Denso,Nissan,AP-ELE-0021,21300,33450,31350,5,True
+P0022,Toyota CV Joint - KYB,Transmission & Clutch,KYB,Toyota,AP-TRA-0022,13000,19300,18100,8,True
+P0023,Mitsubishi Wheel Bearing - Genuine,Suspension & Steering,Genuine,Mitsubishi,AP-SUS-0023,8900,14150,13100,10,True
+P0024,Suzuki Headlamp Assembly - NGK,Electrical,NGK,Suzuki,AP-ELE-0024,31400,49600,45000,10,True
+P0025,Toyota Tie Rod End - NGK,Suspension & Steering,NGK,Toyota,AP-SUS-0025,2400,3500,3150,10,True
+P0026,Toyota Oil Filter - Denso,Engine & Lubrication,Denso,Toyota,AP-ENG-0026,2300,2850,2500,15,True
+P0027,Mitsubishi Timing Belt - 555,Engine & Lubrication,555,Mitsubishi,AP-ENG-0027,10600,15750,14050,8,True
+P0028,Mitsubishi Wiper Blade Set - Aftermarket,Body & Exterior,Aftermarket,Mitsubishi,AP-BOD-0028,4900,7500,6950,10,True
+P0029,Suzuki Ignition Coil - Genuine,Electrical,Genuine,Suzuki,AP-ELE-0029,16400,25650,22650,5,True
+P0030,Suzuki Engine Mount - NGK,Engine & Lubrication,NGK,Suzuki,AP-ENG-0030,7200,9500,8450,25,True
+P0031,Suzuki Rear Brake Shoe Set - Brembo,Brakes,Brembo,Suzuki,AP-BRA-0031,10600,14900,13900,5,True
+P0032,Mitsubishi Clutch Plate - Bosch,Transmission & Clutch,Bosch,Mitsubishi,AP-TRA-0032,11000,16300,14850,3,True
+P0033,Nissan Spark Plug Set - KYB,Engine & Lubrication,KYB,Nissan,AP-ENG-0033,7000,9900,8850,20,True
+P0034,Nissan Engine Mount - Genuine,Engine & Lubrication,Genuine,Nissan,AP-ENG-0034,4500,7250,6500,25,True
+P0035,Suzuki Starter Motor - Aftermarket,Electrical,Aftermarket,Suzuki,AP-ELE-0035,31800,41200,36800,3,True
+P0036,Mitsubishi Window Regulator - Denso,Body & Exterior,Denso,Mitsubishi,AP-BOD-0036,24600,33100,29250,25,True
+P0037,Mitsubishi Drive Shaft - KYB,Transmission & Clutch,KYB,Mitsubishi,AP-TRA-0037,23800,38200,33800,8,True
+P0038,Mitsubishi Timing Belt - Bosch,Engine & Lubrication,Bosch,Mitsubishi,AP-ENG-0038,9500,13100,12250,10,True
+P0039,Universal Coolant 1L - Wurth,Filters & Fluids,Wurth,Universal,AP-FIL-0039,3000,4350,3950,12,True
+P0040,Honda Lower Arm - 555,Suspension & Steering,555,Honda,AP-SUS-0040,20500,28250,26000,12,True
+P0041,Honda Clutch Cover - Bosch,Transmission & Clutch,Bosch,Honda,AP-TRA-0041,9900,13900,13050,5,True
+P0042,Honda Drive Shaft - KYB,Transmission & Clutch,KYB,Honda,AP-TRA-0042,53700,84450,78750,15,True
+P0043,Nissan Starter Motor - Aftermarket,Electrical,Aftermarket,Nissan,AP-ELE-0043,71600,107500,98550,3,True
+P0044,Mitsubishi Cabin Air Filter - GMB,Filters & Fluids,GMB,Mitsubishi,AP-FIL-0044,2800,4450,3950,5,True
+P0045,Mitsubishi Engine Gasket Set - KYB,Engine & Lubrication,KYB,Mitsubishi,AP-ENG-0045,11900,15850,14150,15,True
+P0046,Honda Lower Arm - Aftermarket,Suspension & Steering,Aftermarket,Honda,AP-SUS-0046,19800,31350,29200,5,True
+P0047,Universal Brake Fluid 500ml - TRW,Filters & Fluids,TRW,Universal,AP-FIL-0047,750,900,850,12,True
+P0048,Suzuki Brake Master Cylinder - Genuine,Brakes,Genuine,Suzuki,AP-BRA-0048,19800,24250,21450,8,True
+P0049,Toyota Door Handle - NGK,Body & Exterior,NGK,Toyota,AP-BOD-0049,3000,4200,3700,15,True
+P0050,Honda Fuel Filter - Bosch,Engine & Lubrication,Bosch,Honda,AP-ENG-0050,4600,6850,6150,20,True
+P0051,Universal Coolant 1L - Prestone,Filters & Fluids,Prestone,Universal,AP-FIL-0051,1400,2250,2100,20,True
+P0052,Nissan Air Filter - Toyota Genuine,Engine & Lubrication,Toyota Genuine,Nissan,AP-ENG-0052,6200,9850,9150,10,True
+P0053,Nissan Alternator - Bosch,Electrical,Bosch,Nissan,AP-ELE-0053,57100,89600,83450,10,True
+P0054,Suzuki Shock Absorber - NGK,Suspension & Steering,NGK,Suzuki,AP-SUS-0054,24100,37300,34750,10,True
+P0055,Nissan Air Filter - Sakura,Engine & Lubrication,Sakura,Nissan,AP-ENG-0055,3300,4400,3900,12,True
+P0056,Mitsubishi Ignition Coil - Genuine,Electrical,Genuine,Mitsubishi,AP-ELE-0056,21800,35150,32050,3,True
+P0057,Honda Front Brake Pad Set - Brembo,Brakes,Brembo,Honda,AP-BRA-0057,19300,31000,27750,5,True
+P0058,Universal Engine Oil 1L - Shell,Filters & Fluids,Shell,Universal,AP-FIL-0058,6400,9800,8900,5,True
+P0059,Mitsubishi Water Pump - 555,Cooling System,555,Mitsubishi,AP-COO-0059,19500,24150,21900,10,True
+P0060,Suzuki Radiator - Bosch,Cooling System,Bosch,Suzuki,AP-COO-0060,86000,136600,125300,5,True
+P0061,Mitsubishi Headlamp Assembly - GMB,Electrical,GMB,Mitsubishi,AP-ELE-0061,43100,59600,53900,12,True
+P0062,Nissan Front Bumper - 555,Body & Exterior,555,Nissan,AP-BOD-0062,61000,90650,81850,8,True
+P0063,Toyota Front Bumper - GMB,Body & Exterior,GMB,Toyota,AP-BOD-0063,47300,61700,57200,15,True
+P0064,Suzuki Clutch Cover - Aftermarket,Transmission & Clutch,Aftermarket,Suzuki,AP-TRA-0064,44000,57450,52200,8,True
+P0065,Toyota Cabin Air Filter - GMB,Filters & Fluids,GMB,Toyota,AP-FIL-0065,8000,11900,10900,5,True
+P0066,Honda Ball Joint - 555,Suspension & Steering,555,Honda,AP-SUS-0066,13100,17050,15050,10,True
+P0067,Mitsubishi Clutch Release Bearing - Bosch,Transmission & Clutch,Bosch,Mitsubishi,AP-TRA-0067,15100,20950,19250,10,True
+P0068,Suzuki Water Pump - Genuine,Cooling System,Genuine,Suzuki,AP-COO-0068,18900,24150,22250,5,True
+P0069,Nissan Radiator Hose - KYB,Cooling System,KYB,Nissan,AP-COO-0069,6300,10100,9200,3,True
+P0070,Nissan Front Bumper - Bosch,Body & Exterior,Bosch,Nissan,AP-BOD-0070,64700,82400,74800,15,True
+P0071,Mitsubishi Clutch Plate - Genuine,Transmission & Clutch,Genuine,Mitsubishi,AP-TRA-0071,36500,51050,45400,25,True
+P0072,Honda Clutch Plate - 555,Transmission & Clutch,555,Honda,AP-TRA-0072,41100,54700,50700,25,True
+P0073,Toyota Clutch Plate - GMB,Transmission & Clutch,GMB,Toyota,AP-TRA-0073,20500,27250,24500,5,True
+P0074,Nissan Rear Brake Shoe Set - Brembo,Brakes,Brembo,Nissan,AP-BRA-0074,13300,19900,18350,5,True
+P0075,Suzuki Thermostat - NGK,Cooling System,NGK,Suzuki,AP-COO-0075,8700,12250,10850,20,True
+P0076,Mitsubishi Water Pump - Denso,Cooling System,Denso,Mitsubishi,AP-COO-0076,25900,36550,34250,12,True
+P0077,Suzuki Water Pump - 555,Cooling System,555,Suzuki,AP-COO-0077,31400,41050,37200,3,True
+P0078,Honda Water Pump - Genuine,Cooling System,Genuine,Honda,AP-COO-0078,14900,23200,21700,3,True
+P0079,Mitsubishi Radiator Fan Motor - Denso,Cooling System,Denso,Mitsubishi,AP-COO-0079,12700,18750,16650,25,True
+P0080,Toyota Brake Wheel Cylinder - GMB,Brakes,GMB,Toyota,AP-BRA-0080,7300,9850,8950,15,True
+P0081,Toyota Wheel Bearing - Aftermarket,Suspension & Steering,Aftermarket,Toyota,AP-SUS-0081,3900,5950,5250,15,True
+P0082,Toyota Tie Rod End - Denso,Suspension & Steering,Denso,Toyota,AP-SUS-0082,11800,14550,13000,3,True
+P0083,Suzuki Rear Brake Shoe Set - Advics,Brakes,Advics,Suzuki,AP-BRA-0083,17900,28600,25950,12,True
+P0084,Nissan Radiator - Bosch,Cooling System,Bosch,Nissan,AP-COO-0084,34700,55700,49400,3,True
+P0085,Mitsubishi Headlamp Assembly - Genuine,Electrical,Genuine,Mitsubishi,AP-ELE-0085,29300,46800,41750,10,True
+P0086,Honda Engine Gasket Set - Bosch,Engine & Lubrication,Bosch,Honda,AP-ENG-0086,25300,40800,37800,15,True
+P0087,Suzuki Door Handle - NGK,Body & Exterior,NGK,Suzuki,AP-BOD-0087,2000,2850,2550,20,True
+P0088,Toyota CV Joint - Genuine,Transmission & Clutch,Genuine,Toyota,AP-TRA-0088,25000,36850,34250,8,True
+P0089,Nissan Radiator Hose - GMB,Cooling System,GMB,Nissan,AP-COO-0089,5100,7850,7150,25,True
+P0090,Suzuki Clutch Cover - GMB,Transmission & Clutch,GMB,Suzuki,AP-TRA-0090,26000,40600,37750,5,True
+P0091,Suzuki Alternator - 555,Electrical,555,Suzuki,AP-ELE-0091,65500,94850,87250,15,True
+P0092,Suzuki Air Filter - Toyota Genuine,Engine & Lubrication,Toyota Genuine,Suzuki,AP-ENG-0092,2300,3250,2950,12,True
+P0093,Honda Battery - Panasonic,Electrical,Panasonic,Honda,AP-ELE-0093,32200,39400,36900,5,True
+P0094,Suzuki Ball Joint - Aftermarket,Suspension & Steering,Aftermarket,Suzuki,AP-SUS-0094,9900,15100,13900,25,True
+P0095,Toyota Clutch Plate - Bosch,Transmission & Clutch,Bosch,Toyota,AP-TRA-0095,23500,30750,28350,12,True
+P0096,Mitsubishi Cabin Air Filter - NGK,Filters & Fluids,NGK,Mitsubishi,AP-FIL-0096,7500,10800,9750,15,True
+P0097,Suzuki Ignition Coil - GMB,Electrical,GMB,Suzuki,AP-ELE-0097,12300,16250,14400,10,True
+P0098,Toyota Tail Lamp Assembly - KYB,Electrical,KYB,Toyota,AP-ELE-0098,16300,21300,19350,12,True
+P0099,Nissan Engine Gasket Set - GMB,Engine & Lubrication,GMB,Nissan,AP-ENG-0099,10800,14750,13250,8,True
+P0100,Toyota Alternator - Denso,Electrical,Denso,Toyota,AP-ELE-0100,74600,99750,93450,25,True
+P0101,Toyota Engine Gasket Set - GMB,Engine & Lubrication,GMB,Toyota,AP-ENG-0101,17000,24000,21600,3,True
+P0102,Suzuki Wheel Bearing - Bosch,Suspension & Steering,Bosch,Suzuki,AP-SUS-0102,5100,7050,6250,3,True
+P0103,Nissan Brake Disc - Bosch,Brakes,Bosch,Nissan,AP-BRA-0103,10800,17450,15500,20,True
+P0104,Suzuki Clutch Plate - GMB,Transmission & Clutch,GMB,Suzuki,AP-TRA-0104,38600,62400,56050,3,True
+P0105,Toyota Cabin Air Filter - KYB,Filters & Fluids,KYB,Toyota,AP-FIL-0105,4500,5800,5150,3,True
+P0106,Suzuki Thermostat - Aftermarket,Cooling System,Aftermarket,Suzuki,AP-COO-0106,5500,6800,6100,12,True
+P0107,Toyota Clutch Cover - 555,Transmission & Clutch,555,Toyota,AP-TRA-0107,23000,35300,32400,10,True
+P0108,Toyota Radiator Hose - 555,Cooling System,555,Toyota,AP-COO-0108,5300,6800,6100,8,True
+P0109,Toyota Timing Belt - KYB,Engine & Lubrication,KYB,Toyota,AP-ENG-0109,11300,16500,15350,12,True
+P0110,Toyota Clutch Plate - Aftermarket,Transmission & Clutch,Aftermarket,Toyota,AP-TRA-0110,24000,36000,33700,25,True
+P0111,Toyota Clutch Plate - Denso,Transmission & Clutch,Denso,Toyota,AP-TRA-0111,30600,46300,42400,3,True
+P0112,Nissan Spark Plug Set - Denso,Engine & Lubrication,Denso,Nissan,AP-ENG-0112,5200,7550,7000,8,True
+P0113,Mitsubishi Clutch Release Bearing - Aftermarket,Transmission & Clutch,Aftermarket,Mitsubishi,AP-TRA-0113,10600,13700,12550,25,True
+P0114,Suzuki Spark Plug Set - NGK,Engine & Lubrication,NGK,Suzuki,AP-ENG-0114,7000,9450,8700,8,True
+P0115,Suzuki Battery - Yuasa,Electrical,Yuasa,Suzuki,AP-ELE-0115,25300,37550,33950,3,True
+P0116,Toyota Clutch Cover - NGK,Transmission & Clutch,NGK,Toyota,AP-TRA-0116,22400,30200,28350,20,True
+P0117,Toyota Drive Shaft - Aftermarket,Transmission & Clutch,Aftermarket,Toyota,AP-TRA-0117,60300,74850,68200,25,True
+P0118,Honda Lower Arm - KYB,Suspension & Steering,KYB,Honda,AP-SUS-0118,21700,30300,27950,5,True
+P0119,Mitsubishi Air Filter - Bosch,Engine & Lubrication,Bosch,Mitsubishi,AP-ENG-0119,5700,7300,6650,20,True
+P0120,Toyota Clutch Cover - KYB,Transmission & Clutch,KYB,Toyota,AP-TRA-0120,35000,55750,50050,12,True
+P0121,Suzuki Ball Joint - KYB,Suspension & Steering,KYB,Suzuki,AP-SUS-0121,7700,10000,9150,8,True
+P0122,Honda Timing Belt - Genuine,Engine & Lubrication,Genuine,Honda,AP-ENG-0122,12200,19450,17700,3,True
+P0123,Honda Starter Motor - Aftermarket,Electrical,Aftermarket,Honda,AP-ELE-0123,31200,43650,39700,15,True
+P0124,Mitsubishi Front Bumper - Genuine,Body & Exterior,Genuine,Mitsubishi,AP-BOD-0124,64600,102900,95900,10,True
+P0125,Suzuki Wiper Blade Set - 555,Body & Exterior,555,Suzuki,AP-BOD-0125,7000,8650,8000,20,True
+P0126,Nissan Water Pump - Aftermarket,Cooling System,Aftermarket,Nissan,AP-COO-0126,8300,10550,9900,15,True
+P0127,Suzuki Engine Gasket Set - Bosch,Engine & Lubrication,Bosch,Suzuki,AP-ENG-0127,18400,29150,25700,8,True
+P0128,Nissan Thermostat - Bosch,Cooling System,Bosch,Nissan,AP-COO-0128,7800,11950,10700,20,True
+P0129,Universal ATF 1L - Castrol,Filters & Fluids,Castrol,Universal,AP-FIL-0129,4900,6700,6000,25,True
+P0130,Toyota Door Handle - Bosch,Body & Exterior,Bosch,Toyota,AP-BOD-0130,4200,6200,5800,10,True
+P0131,Suzuki Spark Plug Set - Bosch,Engine & Lubrication,Bosch,Suzuki,AP-ENG-0131,3000,4200,3850,3,True
+P0132,Honda Fuel Filter - Denso,Engine & Lubrication,Denso,Honda,AP-ENG-0132,5200,7100,6450,10,True
+P0133,Suzuki Side Mirror - KYB,Body & Exterior,KYB,Suzuki,AP-BOD-0133,8800,11350,10400,20,True
+P0134,Nissan Window Regulator - 555,Body & Exterior,555,Nissan,AP-BOD-0134,17300,25500,23150,3,True
+P0135,Honda Clutch Cover - KYB,Transmission & Clutch,KYB,Honda,AP-TRA-0135,13200,18450,16600,12,True
+P0136,Honda Clutch Cover - 555,Transmission & Clutch,555,Honda,AP-TRA-0136,29100,45450,40300,20,True
+P0137,Honda Wiper Blade Set - GMB,Body & Exterior,GMB,Honda,AP-BOD-0137,5500,6750,6300,20,True
+P0138,Mitsubishi Tie Rod End - NGK,Suspension & Steering,NGK,Mitsubishi,AP-SUS-0138,5000,7350,6750,8,True
+P0139,Suzuki Headlamp Assembly - Denso,Electrical,Denso,Suzuki,AP-ELE-0139,38600,52750,46850,12,True
+P0140,Suzuki Tail Lamp Assembly - KYB,Electrical,KYB,Suzuki,AP-ELE-0140,16700,21250,19400,15,True
+P0141,Mitsubishi Side Mirror - GMB,Body & Exterior,GMB,Mitsubishi,AP-BOD-0141,8700,11500,10700,25,True
+P0142,Honda Starter Motor - Bosch,Electrical,Bosch,Honda,AP-ELE-0142,63900,102550,91100,10,True
+P0143,Mitsubishi Radiator Fan Motor - NGK,Cooling System,NGK,Mitsubishi,AP-COO-0143,13100,20150,17750,5,True
+P0144,Honda Clutch Cover - GMB,Transmission & Clutch,GMB,Honda,AP-TRA-0144,39400,54050,49650,15,True
+P0145,Nissan Engine Gasket Set - Aftermarket,Engine & Lubrication,Aftermarket,Nissan,AP-ENG-0145,5600,8200,7700,15,True
+P0146,Universal Coolant 1L - Toyota Genuine,Filters & Fluids,Toyota Genuine,Universal,AP-FIL-0146,2900,4500,4200,12,True
+P0147,Universal ATF 1L - Toyota Genuine,Filters & Fluids,Toyota Genuine,Universal,AP-FIL-0147,2300,2850,2500,25,True
+P0148,Toyota Front Brake Pad Set - Brembo,Brakes,Brembo,Toyota,AP-BRA-0148,18200,23200,21050,20,True
+P0149,Nissan Window Regulator - Genuine,Body & Exterior,Genuine,Nissan,AP-BOD-0149,22200,27950,25400,20,True
+P0150,Toyota Alternator - NGK,Electrical,NGK,Toyota,AP-ELE-0150,40200,56150,52600,15,True
